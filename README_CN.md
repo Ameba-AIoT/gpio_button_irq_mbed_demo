@@ -4,8 +4,8 @@
 
 🔹 这是一个演示如何使用RTL8721Dx系列SoC进行LED控制和按钮输入中断的示例。
 
-- 📎 [开发板购买链接](https://item.taobao.com/item.htm?id=904981157046)
-- 📄 [芯片详情](https://riot.realmcu.com/cn/module/index.html)
+- 📎 [开发板购买链接](https://item.taobao.com/item.htm?id=904981157046)   |[📦 Amazon](https://www.amazon.com/-/zh/dp/B0FB33DT2C/)
+- 📄 [芯片详情](https://aiot.realmcu.com/cn/module/index.html)
 - 📚 [GPIO Document](https://aiot.realmcu.com/cn/latest/rtos/peripherals/gpio/index.html)
 
 ### 功能特点

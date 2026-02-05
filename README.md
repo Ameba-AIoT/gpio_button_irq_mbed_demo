@@ -4,8 +4,8 @@
 
 🔹 This is an example demonstrating how to use the RTL8721Dx series SoC for LED control and button input interrupts.
 
-- 📎 [Development Board Purchase Link](https://item.taobao.com/item.htm?id=904981157046)
-- 📄 [Chip Details](https://riot.realmcu.com/module/index.html)
+- 📎 [Development Board Purchase Link](https://item.taobao.com/item.htm?id=904981157046)   |[📦 Amazon](https://www.amazon.com/-/zh/dp/B0FB33DT2C/)
+- 📄 [Chip Details](https://aiot.realmcu.com/module/index.html)
 - 📚 [GPIO Document](https://aiot.realmcu.com/latest/rtos/peripherals/gpio/index.html)
 
 ### Features
