@@ -99,7 +99,7 @@ void gpio_button_init()
     
     // configure level trigger handler
 	gpio_irq_init(&button_gpio, BUTTON_PIN, gpio_level_irq_handler, (uint32_t)&current_level);
-	gpio_irq_pull_ctrl(&button_gpio, GPIO_PuPd_UP); //*		@arg  PullNone: HighZ, user can input high or low with this pin. GPIO_PuPd_NOPULL
+	gpio_irq_pull_ctrl(&button_gpio, PullDown); //*		@arg  PullNone: HighZ, user can input high or low with this pin. GPIO_PuPd_NOPULL
                                                     //  *		@arg  PullDown: Pull down. GPIO_PuPd_DOWN
                                                     //   *		@arg  PullUp: Pull up. GPIO_PuPd_UP
 	gpio_irq_set(&button_gpio, IRQ_FALL_RISE, 1); //for dual-edge trigger irq interrupt
